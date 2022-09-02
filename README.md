@@ -1,6 +1,5 @@
+//Francielly, estudante de análise e desenvolvimento de sistemas
 
-
-<!--Francielly, estudante de análise e desenvolvimento de sistemas-->
 <div align="left">
   <a href="https://github.com/fran-rebeca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fran-rebeca&layout=compact&langs_count=7&theme=dracula"/>
